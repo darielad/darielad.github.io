@@ -1,6 +1,7 @@
 # Dariela Del Toro Davila's Portfolio
 
-I recently changed my major to computer science and expect to graduate in 2026-27.
+Hello! My name is Dariela and I attend Cal State Fullerton. I recently changed my major to computer science and expect to graduate in 2026-27.
+My GitHub page is https://github.com/darielad.
 
 ## favorie CPSC 120L laba
 
