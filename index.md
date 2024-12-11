@@ -3,7 +3,7 @@
 Hello! My name is Dariela, and I attend Cal State Fullerton. I recently changed my major to computer science and expect to graduate in 2026-2027.
 My GitHub page is https://github.com/darielad.
 
-## favorie CPSC 120L labs
+## Favorie CPSC 120L Labs
 
 * [Lab 4, part 2](https://github.com/cpsc-fall-2024/cpsc-120-lab-04-dariela-del-toro-ilaria-dettmer-1/blob/main/part-2/hilo.cc)
 
